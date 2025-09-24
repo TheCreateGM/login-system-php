@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $db_user_pwd = '123';
 
     // admin
-    $db_admin = 'iqbal';
+    $db_admin = 'admin';
     $db_admin_pwd = '456';
 
     if (empty($uname)) {
